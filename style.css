@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: aqua;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+main h1 {
+    text-align: left;
+}
+
+iframe {
+    margin:10px;
+}
+
+footer {
+    background-color: blueviolet;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
